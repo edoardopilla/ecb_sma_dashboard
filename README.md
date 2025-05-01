@@ -36,7 +36,7 @@ To run the dashboard:
 
    ```
 
-   (Assuming that chromedriver.exe is mvoed to C:/Users/YOUR_NAME)
+   (Assuming that chromedriver.exe is moved to C:/Users/YOUR_NAME)
 
 6) Run the file app.py from terminal or from your preferred IDE.
 
