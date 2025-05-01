@@ -1,0 +1,125 @@
+/* assets/style.css */
+
+body {
+    font-family: Arial;
+    margin-top: 2%;
+    margin-right: 5%;
+    margin-left: 5%;
+    background-color: #FFFFFF
+}
+
+.header-title {
+    color: #003299;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 5%;
+    margin-right: 20%
+}
+
+.tab-style {
+    color: #003299 !important;
+    border-bottom: #FFFFFF !important;
+    font-weight: normal !important;
+    border-top: #FFFFFF !important;
+    background-color: #FFFFFF !important;
+    line-height: 1hv !important
+}
+
+.tab-style:hover {
+    scale: .95;
+    transition: .2s !important;
+}
+
+.tab-style-selected {
+    color: #003299 !important;
+    border-bottom: #FFFFFF !important;
+    font-weight: bold !important;
+    border-top: #FFFFFF !important;
+    background-color: #FFFFFF !important;
+    line-height: 1hv !important
+}
+
+.tab-style-selected:hover {
+    scale: 1 !important;
+    color: #003299 !important;
+    border-bottom: #FFFFFF !important;
+    font-weight: bold !important;
+    border-top: #FFFFFF !important;
+    background-color: #FFFFFF !important;
+    line-height: 1hv !important
+}
+
+.chart-title {
+    color: #003299;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 2%;
+    margin-bottom: 1%
+}
+
+.chart-subtitle {
+    color: #003299;
+    font-size: 15px;
+    font-style: italic;
+    text-align: left;
+    margin-top: 1%;
+    margin-bottom: 1%
+}
+
+.dropdown-menu {
+    font-size: 15px;
+    width: 250px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: #535353;
+    border: 1px solid #7D7D7D
+}
+
+.dropdown-menu .Select-multi-value-wrapper .Select-value {
+    background-color: #FFFFFF;
+    border-color: #7D7D7D;
+    color: #535353
+  }
+
+.dropdown-menu .Select-multi-value-wrapper .Select-value-icon {
+    background-color: #FFFFFF;
+    border-color: #7D7D7D;
+    color: #535353
+}
+
+.dropdown-menu .Select-multi-value-wrapper .Select-value-icon:hover {
+    color: #D0021B
+    }
+
+.refresh-button {
+    font-size: 15px;
+    width: 65px;
+    height: 50px;
+    background-color: #FFFFFF;
+    margin-left: 8%;
+    border-width: 1px;
+    border: 1px solid #7D7D7D;
+    color: #535353
+}
+
+.refresh-button:hover {
+    font-weight: 600;
+    border: 2px solid #7D7D7D;
+}
+
+.refresh-button:active {
+    font-weight: 600;
+    border: 2px solid #7D7D7D;
+    transform: scale(.95)
+}
+
+.sources-disclaimer {
+    color: #003299;
+    font-size: 12px;
+    margin-top: 15%;
+    text-align: left
+}
