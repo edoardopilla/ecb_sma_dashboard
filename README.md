@@ -38,6 +38,6 @@ To run the dashboard:
 
    (Assuming that chromedriver.exe is mvoed to C:/Users/YOUR_NAME)
 
-4) Run the file app.py from terminal or from your preferred IDE.
+6) Run the file app.py from terminal or from your preferred IDE.
 
 The dashboard is normally hosted at localhost:8050
