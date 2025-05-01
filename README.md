@@ -1,1 +1,1 @@
-# ecb_sma_dashboard
+# The Survey of Monetary Analysts Aggregate Dashboard
