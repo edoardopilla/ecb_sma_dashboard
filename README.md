@@ -25,9 +25,9 @@ To run the dashboard:
 
    in the Conda terminal.
 
-4) Download the correct version of chromedriver.exe from https://googlechromelabs.github.io/chrome-for-testing/#stable by checking your Chrome browser version (Open a new Chrome webpage, click on the vertical dots on the top right, click on 'Information on Chrome' on the bottom left and the version information will be displayed on top of the page)
+4) Download the correct version of chromedriver.exe from https://googlechromelabs.github.io/chrome-for-testing/#stable by checking your Chrome browser version (Open a new Chrome webpage, click on the vertical dots on the top right, click on 'Settings', click on 'Information on Chrome' on the bottom left and the version information will be displayed on top of the page)
 
-5) Define the parameters as listed in ecb_sma_dash_user_params.py, noting that scrape_data_flag shall always be True for the first run after having cloned the repository:
+5) Define the parameters as listed in ecb_sma_dash_user_params.py, note that scrape_data_flag shall always be True for the first run after having cloned the repository:
 
    ```
    scrape_data_flag = True
@@ -40,4 +40,4 @@ To run the dashboard:
 
 6) Run the file app.py from terminal or from your preferred IDE.
 
-The dashboard is normally hosted at localhost:8050
+The dashboard is normally hosted at localhost:8050.
