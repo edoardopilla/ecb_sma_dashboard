@@ -245,6 +245,7 @@ def update_tab3_chart1(df):
     tab3_chart1_figure.update_layout(width = (width_standalone_cm / 2.54) * ppi / scale_factor,
                                      height = (height_standalone_cm / 2.54) * ppi / scale_factor,
                                      plot_bgcolor = 'white',
+                                     legend = dict(itemclick = False, itemdoubleclick = False),
                                      margin = dict(l = 5, r = 5, t = 20, b = 5),
                                      font = dict(family = 'Arial',
                                                  size = 15,
