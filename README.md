@@ -2,6 +2,8 @@
 
 Enable user-friendly visualizations of SMA data, as published by European Central Bank staff at https://www.ecb.europa.eu/stats/ecb_surveys/sma/html/index.en.html
 
+![image info](ecb_sma_dash_diagram.svg)
+
 To run the dashboard:
 
 1) Clone the repository by opening Git Bash to the desired location and typing:
